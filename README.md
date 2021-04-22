@@ -145,6 +145,11 @@ Pendeklarasian CSS elemen h1 mengubah tampilan seluruh elemen yang memiliki tag 
 # 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 jika mendeklarasikan CSS pada elemen yang sama namun isi deklarasi nya berbeda, maka semua deklarasi CSS tersebut akan ditampilkan.
 ![image](https://user-images.githubusercontent.com/56240954/115670016-260ec200-a373-11eb-8465-347f74b54d8c.png)
+![image](https://user-images.githubusercontent.com/56240954/115670625-d250a880-a373-11eb-9dfd-702b52ec6d88.png)
+# 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ```( <p id="paragraf-1" class="text-paragraf"> )```
+Kedua deklarasi tersebut akan tampil
+![image](https://user-images.githubusercontent.com/56240954/115670864-15ab1700-a374-11eb-964c-60512e977cad.png)
+![image](https://user-images.githubusercontent.com/56240954/115670936-2a87aa80-a374-11eb-8c82-135a850d3e22.png)
 
     
    
