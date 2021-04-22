@@ -95,12 +95,13 @@ nav a:hover {
 
 # LANGKAH 5
 ## Tambahkan tag ```<link>``` untuk merujuk file css yang sudah dibuat pada bagian ```<head>``` pada ```lab2_css_dasar.html```
-
+```
 <head>
     <!-- menyisipkan css eksternal -->
     <link rel="stylesheet" href="style_eksternal.css" type="text/css">
 </head>
-![image](https://user-images.githubusercontent.com/56240954/115668764-b3511700-a371-11eb-8b31-a588133d1010.png)
+```
+![image](https://user-images.githubusercontent.com/56240954/115671283-8baf7e00-a374-11eb-8cea-b503e911d261.png)
 
 # LANGKAH 6
 ## Tambahkan CSS Selector menggunakan ID dan Class Selector. Pada file ```style_eksternal.css```
